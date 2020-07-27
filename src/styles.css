@@ -13,7 +13,7 @@
   width: 300px;
   height: 400px;
   overflow: hidden;
-  border: 1px solid #4080FF;
+  border: 1px solid #000000;
   border-radius: 20px;
 }
 
@@ -78,4 +78,8 @@
 .centDiv {
   display: flex;
   justify-content: center;
+}
+
+.badge-success {
+  background-color: #9932CC !important;
 }
